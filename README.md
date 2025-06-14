@@ -38,6 +38,12 @@
 - [Weather Observation Station 10](weather-observation-station-10.md)
 - [Weather Observation Station 11](weather-observation-station-11.md)
 - [Weather Observation Station 12](weather-observation-station-12.md)
+- [Employee Names](employee-names.md)
+- [Employee Salaries](employee-salaries.md)
+- [New Companies](new-companies.md)
+- []()
+- []()
+- []()
 
 Follow my profile in HackerRank.
 
