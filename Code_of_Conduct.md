@@ -1,8 +1,4 @@
-## Contributors
-- [Mayana Silva Oliveira](https://github.com/mayannaoliveira)
-<!-- - [Mayana Silva Oliveira](https://github.com/mayannaoliveira) --->
-
-## Código de Conduta
+## Code of Conduct
 
 The repository was created for educational purposes only. If you want to use the repository, read [Code of Conduct](Code_of_Conduct.md) before forking. 
 
@@ -12,6 +8,6 @@ The repository was created for educational purposes only. If you want to use the
 
 _The list of contributors was created using the [Hub-IO](https://github.com/minorcell/hub-io) generator._
 
-**Please give me a star before fork!**
+:star: **Please give me a star before fork it!** 
 
 
