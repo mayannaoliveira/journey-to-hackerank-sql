@@ -45,7 +45,7 @@
 - []()
 - []()
 
-Follow my profile in HackerRank.
+Follow my profile in [HackerRank](https://www.hackerrank.com/profile/mayannait).
 
 Please read [Code of Conduct](CODE_OF_CONDUCT.md) before fork this repository.
 
